@@ -21,7 +21,7 @@
   * swaps：对换空间的利用情况。
   * version：指明了当前正在运行的内核版本。
   */
-
+//本机环境 ：Linux version 4.13.0-19-generic (buildd@lcy01-amd64-021) (gcc version 7.2.0 (Ubuntu 7.2.0-8ubuntu3)) #22-Ubuntu SMP Mon Dec 4 11:58:07 UTC 2017
 #include<bits/extc++.h>
 using namespace std;
 
